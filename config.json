@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/myblog",
+    "prod_uri": "mysql://root:@localhost/myblog",
+    "tw_url" : "https://twitter.com/ashishprashar",
+    "fb_url" : "https://facebook.com/ashishprashar",
+    "gh_url" : "https://github.com/ashishprashar222",
+    "blog_name" : "Python Blog",
+    "tag_line" : "Python is my lifeline",
+    "gmail-user" : "ashishprashar37@gmail.com",
+    "gmail-password" : "bulbul@151125",
+    "about_text" : "hii this is ashish prashar",
+    "no_of_posts" : 2,
+    "login_image" : "bootstrap-solid.svg",
+    "admin_user": "ashish",
+    "admin_password": "iamgreat",
+    "upload_location" : "C:\\Users\\Ashish\\PycharmProjects\\FlaskProject1\\static"
+  }
+}
